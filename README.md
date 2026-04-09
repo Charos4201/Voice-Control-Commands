@@ -12,7 +12,7 @@ THIS IS A PROTOTYPE
 
 - Has command that kills code from the place the python part is running. Otherwise will run forever until manually killed.
 
-COMMANDS IMPLEMENTED SO FAR
+COMMANDS IMPLEMENTED SO FAR:
 - Wake up: "Hey Homey Buddy"
 - Reminders: "Remind me to ... in ... minutes / minute"
            | "Remind me to ... at (time wanted)"
